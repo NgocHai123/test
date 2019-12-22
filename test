@@ -5,8 +5,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv3.png", HTV3 - Dreams TV
 http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 group-title="HPlus" tvg-logo="",LONG AN
-http://ott.realplaytv.net:12388/?header=hplus&name=Long_An_34&cdn=1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png" ,Long An HD
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="QPVN" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png" group-title="Kênh Thiết Yếu",QPVN
 https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png" group-title="Kênh Thiết Yếu",ANTV
