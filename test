@@ -22,6 +22,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/Quang-Cao-Truyen-Hinh-Vinh-Long-1(1).jpg",Vĩnh Long 1 HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8
 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/niyt_VA9.png" ,Vĩnh Long 2 HD
+http://27.67.50.6:18080/134.m3u8
+
 #EXTINF:-1 tvg-id="THVL2 HD" tvg-name="Vĩnh Long 2" tvg-logo="https://i.postimg.cc/CKsxY5S7/vinhlong2.png" group-title="Địa Phương",Vĩnh Long 2
 http://27.67.50.6:18080/134.m3u8
 
