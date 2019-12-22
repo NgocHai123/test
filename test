@@ -1,35 +1,3 @@
-#EXTINF:-1 tvg-name="HTV1" group-title="HTV/HTVC",HTV1 <Mạng FPT>
-udp://@225.1.1.180:30120
-
-http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2 HD
-
-#EXTINF:-1,HTV3
-http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/htv3.480p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png" ,Long An HD
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-
-#EXTINF:-1 tvg-name="QUOC PHONG VIET NAM HD" group-title="Kênh TH Thiết yếu",QPVN (HD 4Mbps) <Mạng FPT>
-udp://@225.1.2.216:30120
-
-#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" ,ANTV HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-720p/chunks.m3u8
-
-#EXTINF:-1,HTV7 HD
-http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/htv7.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV",VTV9 HD (HD 8Mbps) <Mạng FPT>
-udp://@225.1.1.128:30120
-
-#EXTINF:-1,HTV9 HD
-http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/htv9.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-name="THVL1 HD" group-title="Địa phương (HD)",THVL1 HD _ TH Vĩnh Long (HD 4Mbps) <Mạng FPT>
-udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-name="THVL2 HD" group-title="Địa phương (HD)",THVL2 HD _ TH Vĩnh Long (HD 4Mbps) <Mạng FPT>
-udp://@225.1.1.154:30120
-
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/Quang-Cao-Truyen-Hinh-Vinh-Long-1(1).jpg",Vĩnh Long 1 HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8
@@ -2158,4 +2126,211 @@ udp://@225.1.1.196:30120
 #EXTINF:-1 tvg-name="TV5 Asie" group-title="Quốc Tế (SD)",TV5 MONDE ASIE <Mạng FPT>
 udp://@225.1.1.200:30120
 
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="Mạng FPT",VTV1 HD (Mạng FPT)
+udp://@225.1.4.1:30120
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="Mạng FPT",VTV2 HD (Mạng FPT)
+udp://@225.1.4.2:30120
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="Mạng FPT",VTV3 HD (Mạng FPT)
+udp://@225.1.4.3:30120
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="Mạng FPT",VTV4 HD (Mạng FPT)
+udp://@225.1.4.4:30120
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="Mạng FPT",VTV5 HD (Mạng FPT)
+udp://@225.1.4.5:30120
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="Mạng FPT",VTV6 HD (Mạng FPT)
+udp://@225.1.4.6:30120
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="Mạng FPT",VTV8 HD (Mạng FPT)
+udp://@225.1.4.7:30120
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="Mạng FPT",VTV9 HD (Mạng FPT)
+udp://@225.1.4.8:30120
+#EXTINF:-1 tvg-name="VTC2-ClipTV" group-title="Mạng FPT",VTC2 (Mạng FPT)
+udp://@225.1.4.41:30120
+#EXTINF:-1 tvg-name="VTC3" group-title="Mạng FPT",VTC3 HD (Mạng FPT)
+udp://@225.1.4.42:30120
+#EXTINF:-1 tvg-name="YEAH1 FAMILY VTC4" group-title="Mạng FPT",VTC4 (Mạng FPT)
+udp://@225.1.4.43:30120
+#EXTINF:-1 tvg-name="VTC5-ClipTV" group-title="Mạng FPT",VTC5 (Mạng FPT)
+udp://@225.1.4.44:30120
+#EXTINF:-1 tvg-name="VTC6-ClipTV" group-title="Mạng FPT",VTC6 (Mạng FPT)
+udp://@225.1.4.45:30120
+#EXTINF:-1 tvg-name="VTC8 HD" group-title="Mạng FPT",VTC8 (Mạng FPT)
+udp://@225.1.4.47:30120
+#EXTINF:-1 tvg-name="VTC9 Let's Viet" group-title="Mạng FPT",VTC9 (Mạng FPT)
+udp://@225.1.4.48:30120
+#EXTINF:-1 tvg-name="VTC10-ClipTV" group-title="Mạng FPT",VTC10 (Mạng FPT)
+udp://@225.1.4.49:30120
+#EXTINF:-1 tvg-name="VTC11 THIEU NHI" group-title="Mạng FPT",VTC11 (Mạng FPT)
+udp://@225.1.4.50:30120
+#EXTINF:-1 tvg-name="VTC13" group-title="Mạng FPT",VTC13 HD (Mạng FPT)
+udp://@225.1.4.52:30120
+#EXTINF:-1 tvg-name="VTC14-ClipTV" group-title="Mạng FPT",VTC14 HD (Mạng FPT)
+udp://@225.1.4.53:30120
+#EXTINF:-1 tvg-name="VTC16-ClipTV" group-title="Mạng FPT",VTC16 (Mạng FPT)
+udp://@225.1.4.54:30120
+#EXTINF:-1 tvg-name="HTV1" group-title="Mạng FPT",HTV1 (Mạng FPT)
+udp://@225.1.4.55:30120
+#EXTINF:-1 tvg-name="HTV2-ClipTV" group-title="Mạng FPT",Vie Channel _ HTV2 (HD) (Mạng FPT)
+udp://@225.1.4.56:30120
+#EXTINF:-1 tvg-name="HTV3-ClipTV" group-title="Mạng FPT",dreamsTV _ HTV3 (Mạng FPT)
+udp://@225.1.4.57:30120
+#EXTINF:-1 tvg-name="HTV4" group-title="Mạng FPT",HTV Keys (Mạng FPT)
+udp://@225.1.4.58:30120
+#EXTINF:-1 tvg-name="HTV COOP" group-title="Mạng FPT",HTV co.op (Mạng FPT)
+udp://@225.1.4.68:30120
+#EXTINF:-1 tvg-name="HTVC DU LICH CUOC SONG" group-title="Mạng FPT",DU LỊCH VÀ CUỘC SỐNG (Mạng FPT)
+udp://@225.1.4.67:30120
+#EXTINF:-1 tvg-name="FBNC" group-title="Mạng FPT",FBNC (HD) (Mạng FPT)
+udp://@225.1.4.70:30120
+#EXTINF:-1 tvg-name="HTVC GIA DINH" group-title="Mạng FPT",GIA ĐÌNH (Mạng FPT)
+udp://@225.1.4.64:30120
+#EXTINF:-1 tvg-name="HTVC Phim" group-title="Mạng FPT",HTVC PHIM (HD) (Mạng FPT)
+udp://@225.1.4.63:30120
+#EXTINF:-1 tvg-name="HTVC PHU NU HD" group-title="Mạng FPT",PHỤ NỮ (Mạng FPT)
+udp://@225.1.4.66:30120
+#EXTINF:-1 tvg-name="HTVC Thuần Việt" group-title="Mạng FPT",Thuần Việt (Mạng FPT)
+udp://@225.1.4.61:30120
+#EXTINF:-1 tvg-name="HTVC THUAN VIET HD" group-title="Mạng FPT",Thuần Việt HD (Mạng FPT)
+udp://@225.1.4.62:30120
+#EXTINF:-1 group-title="Mạng FPT",PHIM HAY (Mạng FPT)
+udp://@225.1.4.77:30120
+#EXTINF:-1 group-title="Mạng FPT",NCM _ BTV10 (Mạng FPT)
+udp://@225.1.4.83:30120
+#EXTINF:-1 group-title="Mạng FPT",SAM _ BTV11 (Mạng FPT)
+udp://@225.1.4.84:30120
+#EXTINF:-1 group-title="Mạng FPT",BTV6 2!IDOL _ Vietteen (Mạng FPT)
+udp://@225.1.4.78:30120
+#EXTINF:-1 tvg-name="TH QUANG NINH 3" group-title="Mạng FPT",QTV3 _ TH Quảng Ninh (Mạng FPT)
+udp://@225.1.4.86:30120
+#EXTINF:-1 group-title="Mạng FPT",BPTV2 _ HOME tv (Mạng FPT)
+udp://@225.1.4.80:30120
+#EXTINF:-1 tvg-name="TH BINH DUONG 2" group-title="Mạng FPT",BTV2 HD _ TH Bình Dương (Mạng FPT)
+udp://@225.1.4.81:30120
+#EXTINF:-1 tvg-name="IMOVIE HD" group-title="Mạng FPT",iMOVIE TV HD PHIM CHỌN LỌC _ BTV4 (HD) (Mạng FPT)
+udp://@225.1.4.82:30120
+#EXTINF:-1 tvg-name="VinhLongTV2" group-title="Mạng FPT",THVL2 HD _ TH Vĩnh Long (Mạng FPT)
+udp://@225.1.4.87:30120
+#EXTINF:-1 tvg-name="ABC AUSTRALIA" group-title="Mạng FPT",ABC AUSTRALIA (Mạng FPT)
+udp://@225.1.4.19:30120
+#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Mạng FPT",Asian Food Channel (Mạng FPT)
+udp://@225.1.4.36:30120
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Mạng FPT",Animal Planet (HD) (Mạng FPT)
+udp://@225.1.4.27:30120
+#EXTINF:-1 tvg-name="Arirang" group-title="Mạng FPT",arirang KOREA (Mạng FPT)
+udp://@225.1.4.74:30120
+#EXTINF:-1 tvg-name="AXN-ClipTV" group-title="Mạng FPT",AXN (Mạng FPT)
+udp://@225.1.4.9:30120
+#EXTINF:-1 group-title="Mạng FPT",Baby First (HD) (Mạng FPT)
+udp://@225.1.4.28:30120
+#EXTINF:-1 tvg-name="Baby TV HD-ClipTV" group-title="Mạng FPT",Baby TV (HD) (Mạng FPT)
+udp://@225.1.4.35:30120
+#EXTINF:-1 tvg-name="BBC EARTH" group-title="Mạng FPT",BBC earth (HD) (Mạng FPT)
+udp://@225.1.4.21:30120
+#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="Mạng FPT",BBC lifestyle (Mạng FPT)
+udp://@225.1.4.23:30120
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" group-title="Mạng FPT",BBC WORLD NEWS (Mạng FPT)
+udp://@225.1.4.22:30120
+#EXTINF:-1 tvg-name="BLOOMBERG" group-title="Mạng FPT",BLOOMBERG (Mạng FPT)
+udp://@225.1.4.18:30120
+#EXTINF:-1 tvg-name="Boomerang-ClipTV" group-title="Mạng FPT",BOOMERANG (Mạng FPT)
+udp://@225.1.4.16:30120
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Mạng FPT",CARTOON NETWORK (Mạng FPT)
+udp://@225.1.4.13:30120
+#EXTINF:-1 tvg-name="Channel News Asia" group-title="Mạng FPT",cna (Mạng FPT)
+udp://@225.1.4.76:30120
+#EXTINF:-1 tvg-name="CINEMA WORLD" group-title="Mạng FPT",Cinema World (HD) (Mạng FPT)
+udp://@225.1.4.15:30120
+#EXTINF:-1 tvg-name="CNN-ClipTV" group-title="Mạng FPT",CNN (Mạng FPT)
+udp://@225.1.4.17:30120
+#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Mạng FPT",[V] HD (Mạng FPT)
+udp://@225.1.4.30:30120
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Mạng FPT",DIVA (Mạng FPT)
+udp://@225.1.4.38:30120
+#EXTINF:-1 tvg-name="Discovery Asia-ClipTV" group-title="Mạng FPT",Discovery Asia (HD) (Mạng FPT)
+udp://@225.1.4.25:30120
+#EXTINF:-1 tvg-name="Discovery Channel-ClipTV" group-title="Mạng FPT",Discovery Channel (HD) (Mạng FPT)
+udp://@225.1.4.24:30120
+#EXTINF:-1 tvg-name="DW-ClipTV" group-title="Mạng FPT",DW (HD) (Mạng FPT)
+udp://@225.1.4.75:30120
+#EXTINF:-1 tvg-name="FASHION TV" group-title="Mạng FPT",FASHION TV (HD) (Mạng FPT)
+udp://@225.1.4.20:30120
+#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="Mạng FPT",FOX HD (Mạng FPT)
+udp://@225.1.4.33:30120
+#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Mạng FPT",FOX life (HD) (Mạng FPT)
+udp://@225.1.4.32:30120
+#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Mạng FPT",FOX SPORTS (HD) (Mạng FPT)
+udp://@225.1.4.10:30120
+#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="Mạng FPT",FOX SPORTS 2 (Mạng FPT)
+udp://@225.1.4.11:30120
+#EXTINF:-1 tvg-name="FOX SPORTS 3-ClipTV" group-title="Mạng FPT",FOX SPORTS 3 (HD) (Mạng FPT)
+udp://@225.1.4.12:30120
+#EXTINF:-1 tvg-name="France 24 English-ClipTV" group-title="Mạng FPT",FRANCE 24 (Mạng FPT)
+udp://@225.1.4.71:30120
+#EXTINF:-1 tvg-name="KBS World" group-title="Mạng FPT",KBS WORLD (Mạng FPT)
+udp://@225.1.4.69:30120
+#EXTINF:-1 tvg-name="KIX" group-title="Mạng FPT",KIX (HD) (Mạng FPT)
+udp://@225.1.4.40:30120
+#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Mạng FPT",NATIONAL GEOGRAPHIC HD (Mạng FPT)
+udp://@225.1.4.31:30120
+#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Mạng FPT",NHK WORLD JAPAN (HD) (Mạng FPT)
+udp://@225.1.4.73:30120
+#EXTINF:-1 tvg-name="OutdoorChannel" group-title="Mạng FPT",Outdoor Channel (Mạng FPT)
+udp://@225.1.4.37:30120
+#EXTINF:-1 tvg-name="Travel & Living (TLC)" group-title="Mạng FPT",TLC (HD) (Mạng FPT)
+udp://@225.1.4.26:30120
+#EXTINF:-1 tvg-name="WARNER TV" group-title="Mạng FPT",WBTV (Mạng FPT)
+udp://@225.1.4.14:30120
 
+
+#EXTINF:-1 group-title="FPT Service",Dolife Hospital <Mạng FPT>
+udp://@225.1.1.127:30120
+#EXTINF:-1 group-title="FPT Service",The Mira Hotel <Mạng FPT>
+udp://@225.1.1.123:30120
+#EXTINF:-1 group-title="FPT Service",The Ocean Resort <Mạng FPT>
+udp://@225.1.1.121:30120
+#EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Chương Trình <Mạng FPT>
+udp://@225.1.1.2:30120
+#EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Dịch Vụ <Mạng FPT>
+udp://@225.1.1.137:30120
+#EXTINF:-1 group-title="FPT Service",FPT Mở Két <Mạng FPT>
+udp://@225.1.1.26:30120
+#EXTINF:-1 group-title="FPT Service",FPT Mở Két <Mạng FPT>
+udp://@225.1.1.97:30120
+#EXTINF:-1 group-title="FPT Service",FPT Thể Thao <Mạng FPT>
+udp://@225.1.2.252:30120
+#EXTINF:-1 group-title="FPT Service",FPT Feed <Mạng FPT>
+udp://@225.1.1.11:30120
+#EXTINF:-1 group-title="FPT Service",FPT Feed <Mạng FPT>
+udp://@225.1.2.100:30120
+#EXTINF:-1 group-title="FPT Service",FPT Feed <Mạng FPT>
+udp://@225.1.2.102:30120
+
+#EXTINF:-1 group-title="Mua Sắm",VTVCab11 _ VGS SHOP <Mạng FPT>
+udp://@225.1.2.167:30120
+#EXTINF:-1 group-title="Mua Sắm",VTVCab13 _ VTV Hyundai Homeshopping <Mạng FPT>
+udp://@225.1.1.122:30120
+#EXTINF:-1 tvg-name="HTV COOP" group-title="Mua Sắm",HTV Coop <Mạng FPT>
+udp://@225.1.1.210:30120
+#EXTINF:-1 group-title="Mua Sắm",HTVC VGS SHOP <Mạng FPT>
+udp://@225.1.1.172:30120
+#EXTINF:-1 group-title="Mua Sắm",SCJ Shopping _ SCTV5 <Mạng FPT>
+udp://@225.1.1.134:30120
+#EXTINF:-1 group-title="Mua Sắm",Sao Nam Shopping _ SCTV10 <Mạng FPT>
+udp://@225.1.2.205:30120
+#EXTINF:-1 group-title="Mua Sắm",BTV6 _ Quê Hương Homeshopping <Mạng FPT>
+udp://@225.1.1.90:30120
+
+#EXTINF:-1 tvg-name="K+ 1 (HD)" group-title="K+",K+1 HD (DRM) <Mạng FPT>
+udp://@225.1.1.5:30120
+#EXTINF:-1 tvg-name="K+ 1 (HD)" group-title="K+",K+1 HD (DRM) <Mạng FPT>
+udp://@225.1.1.78:30120
+#EXTINF:-1 tvg-name="K+ NS (HD)" group-title="K+",K+NS HD (DRM) <Mạng FPT>
+udp://@225.1.1.6:30120
+#EXTINF:-1 tvg-name="K+ NS (HD)" group-title="K+",K+NS HD (DRM) <Mạng FPT>
+udp://@225.1.1.80:30120
+#EXTINF:-1 tvg-name="K+ PM (HD)" group-title="K+",K+PM HD (DRM) <Mạng FPT>
+udp://@225.1.1.73:30120
+#EXTINF:-1 tvg-name="K+ PM (HD)" group-title="K+",K+PM HD (DRM) <Mạng FPT>
+udp://@225.1.1.81:30120
+#EXTINF:-1 tvg-name="K+ PC (HD)" group-title="K+",K+PC HD (DRM) <Mạng FPT>
+udp://@225.1.1.77:30120
+#EXTINF:-1 tvg-name="K+ PC (HD)" group-title="K+",K+PC HD (DRM) <Mạng FPT>
+udp://@225.1.1.82:30120
